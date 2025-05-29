@@ -16,7 +16,7 @@ A desktop application built using Java and Swing that simulates a simple Library
 ---
 
 ## 🏗️ Project Structure
-
+```
 LibraryBookLendingSystem/
 ├── src/
 │   ├── Main.java
@@ -35,7 +35,7 @@ LibraryBookLendingSystem/
 │   └── members.txt
 ├── bin/               # (Generated after compilation)
 └── README.md
-
+```
 
 ---
 
