@@ -1,0 +1,2 @@
+B1,The Alchemist,Paulo Coelho,true
+B2,1984,George Orwell,true
